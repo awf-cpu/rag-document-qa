@@ -1,0 +1,6 @@
+numpy>=1.24
+pytest>=7.4
+
+# Optional extras (not required for offline use or tests):
+#   pip install openai      # enables the OpenAI embedding/LLM providers
+#   pip install pypdf       # enables loading .pdf documents
